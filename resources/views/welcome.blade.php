@@ -35,10 +35,7 @@
           <!-- Personal Information -->
           <div class="row">
             <div class="col-xs-12 col-sm-7">
-              <p>Proin volutpat mauris ac pellentesque pharetra. Suspendisse congue elit vel odio suscipit, sit amet
-                tempor nisl imperdiet. Quisque ex justo, faucibus ut mi in, condimentum finibus dolor. Aliquam vitae
-                hendrerit dolor, eget imperdiet mauris. Maecenas et ante id ipsum condimentum dictum et vel massa.
-                Ut in imperdiet dolor, vel consectetur dui.</p>
+              <p>Hi, Nice to see you visit my profile. I am an engineer.I have completed B.Sc engineering from Information and Communication Engineering department at Pabna University Of Science And Technology. I'm also a designer and programmer of web applications. Interested in Scalable software development. I have a vision of make my self a great software architect and with that vision I am moving forward gradually by learning latest technologies and Software development process( Design pattern and principles).</p>
             </div>
 
             <div class="col-xs-12 col-sm-5">
@@ -963,18 +960,12 @@
 
             <!-- Contact Form -->
             <div class="col-xs-12 col-sm-8">
-              <div id="map" class="map">
-                <div class="lmpixels-map">
-                  <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-                    src="https://maps.google.com/maps?q=San%20Francisco%2C%20S601%20Townsend%20Street%2C%20California%2C%20USA&amp;amp;t=m&amp;amp;z=16&amp;amp;output=embed&amp;amp;iwloc=near&amp;output=embed"></iframe>
-                </div>
-              </div>
               <div class="block-title">
                 <h3>How Can I <span>Help You?</span></h3>
               </div>
 
               <form id="contact_form" class="contact-form"
-                action="https://lmpixels.com/demo/breezycv/dark/1/contact_form/contact_form.php" method="post">
+                action="#" method="post">
 
                 <div class="messages"></div>
 
