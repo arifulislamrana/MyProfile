@@ -11,11 +11,10 @@
                 <h2>Ariful Islam</h2>
                 <div class="owl-carousel text-rotation">
                   <div class="item">
-                    <div class="sp-subtitle">Web Designer</div>
-                  </div>
-
-                  <div class="item">
                     <div class="sp-subtitle">Web developer</div>
+                  </div>
+                  <div class="item">
+                    <div class="sp-subtitle">Web Designer</div>
                   </div>
                 </div>
               </div>
