@@ -1,2 +1,2 @@
 # MyProfile
-A portfolio site
+A portfolio site for developer with admin pannel
