@@ -6,12 +6,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>BreezyCV - Resume / CV / vCard Template</title>
+  <title>xenon170632</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <meta name="description" content="BreezyCV - Resume / CV / vCard Template" />
   <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, Material CV, portfolio" />
   <meta name="author" content="lmpixels" />
-  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="shortcut icon" href="Assets/img/main_photo.jpeg">
 
 
   <link rel="stylesheet" href="Assets/css/reset.css" type="text/css">
@@ -45,7 +45,7 @@
       <header id="site_header" class="header mobile-menu-hide">
         <div class="header-content">
           <div class="header-photo">
-            <img src="Assets/img/main_photo.jpg" alt="Alex Smith">
+            <img src="Assets/img/main_photo.jpeg" alt="Alex Smith">
           </div>
           <div class="header-titles">
             <h2>Ariful Islam</h2>
@@ -101,10 +101,10 @@
         </div>
 
         <div class="header-buttons">
-          <a href="#" target="_blank" class="btn btn-primary">Download CV</a>
+          <a href="#" class="btn btn-primary">Download CV</a>
         </div>
 
-        <div class="copyrights">© 2020 All rights reserved.</div>
+        <div class="copyrights">©{{ date("Y") }} All rights reserved.</div>
       </header>
 
       <!-- Mobile Navigation -->
